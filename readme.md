@@ -4,4 +4,4 @@
 </div>
 <br>
 
-          Here, you will find all the solutions to the Codédex exercises.
+<div align="center">Here, you will find all the solutions to the Codédex exercises.</div>
